@@ -82,6 +82,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>sbp_login</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
